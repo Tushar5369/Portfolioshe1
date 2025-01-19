@@ -556,7 +556,7 @@ header .fa-bars{
         border: .1rem soild rgba(0, 0, 0,.1);
         display: block;
     }
-    .home .content h3{
+/*     .home .content h3{
         font-size: 5rem;
     }
     .home .content span{
@@ -564,7 +564,7 @@ header .fa-bars{
     }
     .container{
         max-width: 768px;
-    }
+    } */
 }
 @media (max-width:768px){
     .container{
